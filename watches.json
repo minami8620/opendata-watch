@@ -1,0 +1,8 @@
+{
+  "watches": [
+    { "name": "入札・調達", "query": "title:入札 OR title:調達" },
+    { "name": "保育・子育て", "query": "title:保育 OR title:子育て OR title:待機児童" },
+    { "name": "防災・避難所", "query": "title:避難所 OR title:防災" },
+    { "name": "人口統計", "query": "title:人口 OR title:世帯" }
+  ]
+}
